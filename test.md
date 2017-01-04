@@ -1,2 +1,0 @@
-# nuts
-sms verify
